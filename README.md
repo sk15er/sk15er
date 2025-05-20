@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **sk15er** is a ✨ _special_ ✨ this is not my main github profile this is the secondry which i use to maintain the codes. pushing and whatever i wanted!.
 
 
